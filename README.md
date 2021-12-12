@@ -1,4 +1,4 @@
-# CodeWars
+# CodeWars 🐱‍👤
 This repo is a collection of CodeWars solutions.  
 
-Profile: https://www.codewars.com/users/Jonatas4ndrade
+My profile can be found [here](https://www.codewars.com/users/Jonatas4ndrade).
