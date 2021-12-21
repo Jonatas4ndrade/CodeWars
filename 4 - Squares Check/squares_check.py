@@ -2,9 +2,8 @@ from collections import defaultdict
 
 def comp(array1, array2):
 
-    for x in [array1, array2]:
-         if x is None:
-            return False
+    if array1 is None or array2 is None:
+        return False
 
     # Dictionaries were used as they are implemented using hash tables
     # and don't need to be sorted for comparison
